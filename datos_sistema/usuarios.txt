@@ -1,0 +1,4 @@
+cliente1 | 123 | Juan Pérez | cliente | 290000.0
+cliente2 | 123 | María García | cliente | 50000.0
+organizador1 | 123 | Carlos Eventos | organizador | 0.0
+admin | 123 | Admin Principal | administrador | 0.0

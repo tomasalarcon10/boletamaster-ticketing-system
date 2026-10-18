@@ -1,0 +1,3 @@
+v1 | Estadio Atanasio | Medellín | 50000 | Ninguna | true
+v2 | Teatro Metro | Bogotá | 2000 | Solo eventos culturales | true
+v3 | Plaza de Toros | Cali | 15000 | Pendiente | true
